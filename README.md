@@ -1,1 +1,2 @@
-# SmartHome UI with REACT NATIVE
+# SmartHome
+Create with REACT NATIVE
